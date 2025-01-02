@@ -1,0 +1,85 @@
+
+[
+    {
+        "id":"1",
+        "name":"Autumn Bouquet",
+        "price":"40.0",
+        "imgUrl":"/imgg/images (1).jpg"
+
+
+
+    },
+
+{
+        "id":"2",
+        "name":"Rose Lovers Bouquet",
+        "price":"30.0",
+        "imgUrl":"/imgg/images (2).jpg"
+},
+
+{
+    "id":"3",
+    "name":"Lavender Lovers Bouquet",
+    "price":"30.0",
+    "imgUrl":"/imgg/images (3).jpg"
+},
+{
+    "id":"4",
+    "name":"Rainbow Bouquet",
+    "price":"35.0",
+    "imgUrl":"/imgg/images (4).jpg"
+},
+{
+    "id":"5",
+    "name":"Red Jory Bouquet",
+    "price":"50.0",
+    "imgUrl":"/imgg/images (5).jpg"
+},
+{
+    "id":"6",
+    "name":"Winter Bouquet",
+    "price":"35.0",
+    "imgUrl":"/imgg/images (6).jpg"
+},
+{
+"id":"7",
+"name":"Pinky Bouquet",
+"price":"26.0",
+"imgUrl":"/imgg/images (7).jpg"
+
+},
+
+
+{
+    "id":"8",
+    "name":"BabyRose Bouquet",
+    "price":"40.0",
+    "imgUrl":"/imgg/images (8).jpg"
+    },
+    {
+        "id":"9",
+        "name":"SunFlower Bouquet",
+        "price":"45.0",
+        "imgUrl":"/imgg/images (9).jpg"
+
+        },
+        {
+            "id":"10",
+            "name":"Berries Bouquet",
+            "price":"50.0",
+            "imgUrl":"/imgg/images (10).jpg"
+
+            },
+            {
+                "id":"11",
+                "name":"Red Jory with Baby Flower Bouquet",
+                "price":"55.0",
+                "imgUrl":"/imgg/images (17).jpg"
+                },
+                {
+                    "id":"12",
+                    "name":"Purple Lovers Bouquet",
+                    "price":"45.0",
+                    "imgUrl":"/imgg/images (18).jpg"
+                    }
+]
